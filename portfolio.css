@@ -1,0 +1,7 @@
+#photoprincipale{
+    width: 200px;
+    height: 200Px;
+    object-fit: cover;
+    border-radius: 50%;
+    float: left;
+}
